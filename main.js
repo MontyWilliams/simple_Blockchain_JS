@@ -62,4 +62,4 @@ coin.chain[1].data = { amount: 100 };
 
 console.log('Is chain valid? ' + coin.isChainValid());
 
-//console.log(JSON.stringify(coin, null, 4, "font-size: 50" ));
+console.log(JSON.stringify(coin, null, 4, "font-size: 50" ));
