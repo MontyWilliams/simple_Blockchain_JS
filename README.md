@@ -10,3 +10,8 @@ then run the program with
 ```
 node main.js
 ```
+
+# Proof of Work (Mining)
+
+### pof work is used as a mechanism to discourage spamming and confirm the validity of the network
+By requiring computations to be done before a new block can be added
